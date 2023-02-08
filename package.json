@@ -1,0 +1,21 @@
+{
+  "name": "codespaces-auth",
+  "version": "1.0.0",
+  "description": "This is an auth system with github codespace",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahirulislm/codespaces-auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahirulislm/codespaces-auth/issues"
+  },
+  "homepage": "https://github.com/jahirulislm/codespaces-auth#readme"
+}
